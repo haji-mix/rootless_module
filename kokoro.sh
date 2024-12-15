@@ -11,7 +11,7 @@ echo "     █▀▄▀█ █▀█ █▀▄ █░█ █░░ █
 ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░
 
 • Author: Kenneth Panio
-• GitHub: https://github.com/kokoro
+• GitHub: https://github.com/haji-mix
 • TikTok: https://www.tiktok.com/@atomicslashstudio
 • Facebook: $facebook
 • YouTube: atomicslashstudio
