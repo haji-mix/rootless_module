@@ -1,5 +1,5 @@
 #!/system/bin/sh
-expiration_date="2025-01-01"
+expiration_date="2026-01-01"
 current_date=$(date +%Y-%m-%d)
 facebook="https://www.facebook.com/61567428059504"
 echo "▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄
@@ -12,11 +12,11 @@ echo "     █▀▄▀█ █▀█ █▀▄ █░█ █░░ █
 
 • Author: Kenneth Panio
 • GitHub: https://github.com/haji-mix
-• TikTok: https://www.tiktok.com/@atomicslashstudio
+• TikTok: https://www.tiktok.com/@atomicslashtv
 • Facebook: $facebook
 • YouTube: atomicslashstudio
 • Expiration: ${expiration_date}
-• Version: 1.0.0
+• Version: 1.0.1
 ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄
 ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░
         
@@ -915,7 +915,6 @@ settings_global=(
 "cached_apps_freezer 1"
 "angle_gl_driver_all_angle 1"
 "zen_mode 2"
-"ram_expand_size_list 4"
 "power_mode_refresh_rate_cover 2"
 "power_mode_refresh_rate 2"
 "perftune_ram_enabled 1"
@@ -930,8 +929,7 @@ settings_global=(
 "persist.sys.spc.cpulimit.enabled 0"
 "gpu_composition_policy 1"
 "gpu_render_policy 1"
-"sys_storage_max_cache_bytes 4096"
-"zram_enabled 1"
+"sys_storage_max_cache_bytes 9999999999"
 "game_driver_fps_overlay_enabled 1"
 "game_driver 1"
 "game_driver_all_apps 1"
@@ -945,7 +943,6 @@ settings_global=(
 "game_home_enable 1"
 "game_low_latency_mode 1"
 "gpu_driver_enabled 1"
-"ram_expand_size 4096"
 "allow.fast.charging 1"
 "net_speed_on_off 1"
 "foreground_mem_priority high"
